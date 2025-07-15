@@ -2,4 +2,4 @@
 
 ### 👋 Hi there, I’m Neha Kumari (Nekochan)
 🚀 AI/ML Enthusiast | 日本語を勉強しています  
-🌸 Exploring NLP, Facial Emotion Detection, and tech for good.
+🌸 Exploring tech for good.
